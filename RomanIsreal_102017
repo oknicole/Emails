@@ -1,0 +1,163 @@
+%%[
+Var @Email, @Access_ID
+Set @Email = Email
+Set @Access_ID = Access_ID
+]%%
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Roman J. Israel, Esq.</title>
+</head>
+
+<body topmargin="0" leftmargin="0" bgcolor="#FFFFFF">
+<table width="600" border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+    <!-- HOSTED_EMAIL_LINK_BEGIN -->
+    <tr>
+      <td colspan="2" style="color: #000000; font-size:10px; font-family:Arial,Helvetica,sans-serif; padding:5px 0px; text-align:center;"><strong> Roman J. Israel, Esq.&#58; In Theaters This November</strong><br>
+        If you cannot see this message, <a href="%%view_email_url%%" target="_blank" style="color: #000000">click here</a> to view. </td>
+    </tr>
+    <!-- HOSTED_EMAIL_LINK_END -->
+    <tr>
+      <td align="left" valign="top"><table width="600" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://www.sonypictures.com/index.html?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/header_01.jpg" width="223" height="34" alt="Sony Pictures" title="Sony Pictures" style="display:block" border="0"/></a></td>
+            <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://www.sonypictures.com/movies/index.html?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/header_02.jpg" width="69" height="34" alt="Movies" title="Movies" style="display:block" border="0"/></a></td>
+            <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://www.sonypictures.com/tv/index.html?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/header_03.jpg" width="94" height="34" alt="Television" title="Television" style="display:block" border="0"/></a></td>
+            <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://www.sonypictures.com/gamesandapps/index.html?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/header_04.jpg" width="115" height="34" alt="Games &amp; Apps" title="Games &amp; Apps" style="display:block" border="0"/></a></td>
+            <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://www.sonypictures.com/social/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/header_05.jpg" width="61" height="34" alt="Social" title="Social" style="display:block" border="0"/></a></td>
+            <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/header_06.jpg" width="38" height="34" alt="" style="display:block" border="0" /></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/index_01.jpg" width="152" height="55" alt="" style="display:block" border="0"/></td>
+              <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/index_02.jpg" width="295" height="55" alt="" style="display:block" border="0"/></td>
+              <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/index_03.jpg" width="153" height="55" alt="" style="display:block" border="0"/></td>
+            </tr>
+          </tbody>
+        </table></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/index_04.jpg" width="600" height="188" alt="" style="display:block" border="0"/></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/index_05.jpg" width="84" height="48" alt="" style="display:block" border="0"/></td>
+              <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/index_06.jpg" width="431" height="48" alt="Roman J. Israel, Esq." title="Roman J. Israel, Esq." style="display:block" border="0"/></td>
+              <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/index_07.jpg" width="85" height="48" alt="" style="display:block" border="0"/></td>
+            </tr>
+          </tbody>
+        </table></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/index_08.jpg" width="600" height="270" alt="" style="display:block" border="0"/></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/index_09.jpg" width="222" height="48" alt="" style="display:block" border="0"/></td>
+              <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/index_10.jpg" width="156" height="48" alt="All Rise." title="All Rise." style="display:block" border="0"/></td>
+              <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/index_11.jpg" width="222" height="48" alt="" style="display:block" border="0"/></td>
+            </tr>
+          </tbody>
+        </table></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/index_12.jpg" width="126" height="80" alt="" style="display:block" border="0"/></td>
+              <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/index_13.jpg" width="347" height="80" alt="In Theaters this November" title="In Theaters this November" style="display:block" border="0"/></td>
+              <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/index_14.jpg" width="127" height="80" alt="" style="display:block" border="0"/></td>
+            </tr>
+          </tbody>
+        </table></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=https://youtu.be/CItEtnp3nPY?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/index_15.jpg" width="600" height="339" alt="Watch Trailer" title="Watch Trailer" style="display:block" border="0"/></a></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/index_16.jpg" width="600" height="27" alt="" style="display:block" border="0"/></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/index_17.jpg" width="260" height="22" alt="" style="display:block" border="0"/></td>
+              <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=https://www.facebook.com/RomanJIsraelESQ/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/index_18.jpg" width="13" height="22" alt="Facebook" title="Facebook" style="display:block" border="0"/></a></td>
+              <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/index_19.jpg" width="9" height="22" alt="" style="display:block" border="0"/></td>
+              <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=https://www.instagram.com/romanjisraelesq/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/index_20.jpg" width="23" height="22" alt="Instagram" title="Instagram" style="display:block" border="0"/></a></td>
+              <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/index_21.jpg" width="9" height="22" alt="" style="display:block" border="0"/></td>
+              <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=https://twitter.com/romanjisraelesq/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/index_22.jpg" width="27" height="22" alt="Twitter" title="Twitter" style="display:block" border="0"/></a></td>
+              <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/index_23.jpg" width="259" height="22" alt="" style="display:block" border="0"/></td>
+            </tr>
+          </tbody>
+        </table></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/index_24.jpg" width="600" height="25" alt="" style="display:block" border="0"/></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/index_25.jpg" width="198" height="27" alt="" style="display:block" border="0"/></td>
+              <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=https://twitter.com/romanjisraelesq/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/index_26.jpg" width="206" height="27" alt="&#35;RomanJIsrael" title="&#35;RomanJIsrael" style="display:block" border="0"/></a></td>
+              <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/index_27.jpg" width="196" height="27" alt="" style="display:block" border="0"/></td>
+            </tr>
+          </tbody>
+        </table></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/index_28.jpg" width="600" height="21" alt="" style="display:block" border="0"/></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/index_29.jpg" width="389" height="42" alt="" style="display:block" border="0"/></td>
+              <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                  <tbody>
+                    <tr>
+                      <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=https://twitter.com/romanjisraelesq/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/index_30.jpg" width="108" height="21" alt="&#35;RomanIsraelMovie" title="&#35;RomanIsraelMovie" style="display:block" border="0"/></a></td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://www.romanisraelmovie.com/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/index_32.jpg" width="108" height="21" alt="RomanIsraelMovie.com" title="RomanIsraelMovie.com" style="display:block" border="0"/></a></td>
+                    </tr>
+                  </tbody>
+                </table></td>
+              <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/index_31.jpg" width="103" height="42" alt="" style="display:block" border="0"/></td>
+            </tr>
+          </tbody>
+        </table></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/roman_israel_trailer_email/index_33.jpg" width="600" height="26" alt="" style="display:block" border="0"/></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top" style="color:#000000; padding:10px 15px 15px 15px;font-size: 11px; font-family: Arial,Helvetica,sans-serif; text-align:left;"><p style="text-align: center;">For Ratings Reasons: <a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://www.filmratings.com/?hs308=email" target="_blank" style="color:#000000;">FILMRATINGS.COM</a>, <a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://www.mpaa.org/?hs308=email" target="_blank" style="color:#000000;">MPAA.ORG</a></p>
+        <p>You are receiving this e-mail because you subscribed to receive Sony Pictures Updates. You are subscribed with the address: %%=v(@email)=%%</p>
+        <p><b>UNSUBSCRIBE</b><br>
+          To be removed from our mailing list, <a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=https://secure.sonypictures.com/registration/preference/mysubscriptions.php?access=%%=v(@access_id)=%%&campaignid=%%jobid%%?hs308=email" style="color:#66553c;" target="_blank">click here</a>.</p>
+        <p><b>UPDATE YOUR PREFERENCES</b><br>
+          To manage your subscriptions and email preferences, <a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=https://secure.sonypictures.com/registration/preference/?access=%%=v(@access_id)=%%&campaignid=%%jobid%%?hs308=email" style="color:#66553c;" target="_blank">click here</a>.</p>
+        <p>To learn how we handle your personal information, read our <a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://www.sonypictures.com/corp/privacy.html?hs308=email" target="_blank" style="color:#66553c;">Privacy Policy</a>.</p>
+        <p>This email may contain links to, or advertisements concerning, other third party sites.  Sony Pictures is not responsible for the privacy practices or content of such other sites and encourages you to read their own privacy statements and terms of use when you visit such sites.</p>
+        <p>This email was sent to %%=v(@email)=%% by Sony Pictures Entertainment Inc.<br>
+          10202 W. Washington Blvd., Culver City, CA 90232</p>
+        <p>&copy; 2017 Sony Pictures Entertainment Inc. All rights reserved.</p></td>
+    </tr>
+  </tbody>
+</table>
+<custom name="opencounter" type="tracking">
+<img src= 'https://beacon.krxd.net/1x1_ad_impression.gif?confid=rp2gxc9nf&advertiserid=%%memberid%%&campaignid=%%emailname_%%&kxbrand=' width=0 height=0 style='display:none' /> <img src= 'https://beacon.krxd.net/1x1_usermatch.gif?partner=LFOmnOpC_exacttarget_sha256&partner_uid=%%=SHA256(emailaddr)=%%' width=0 height=0 style='display:none' /> <img src= 'https://beacon.krxd.net/1x1_usermatch.gif?partner=LFOmnOpC_exacttarget_subkey&partner_uid=%%subscriberid%%' width=0 height=0 style='display:none' /> <img src= 'https://beacon.krxd.net/1x1_usermatch.gif?partner=LFOmnOpC_exacttarget_subid&partner_uid=%%_subscriberkey%%' width=0 height=0 style='display:none' />
+</body>
+</html>
