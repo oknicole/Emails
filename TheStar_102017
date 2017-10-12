@@ -1,0 +1,116 @@
+%%[
+Var @Email, @Access_ID
+Set @Email = Email
+Set @Access_ID = Access_ID
+]%%
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>The Star</title>
+</head>
+
+<body topmargin="0" leftmargin="0" bgcolor="#FFFFFF">
+<table width="600" border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+    <!-- HOSTED_EMAIL_LINK_BEGIN -->
+    <tr>
+      <td colspan="2" style="color: #000000; font-size:10px; font-family:Arial,Helvetica,sans-serif; padding:5px 0px; text-align:center;"><strong> The Star&#58; In Theaters November 17 </strong><br>
+        If you cannot see this message, <a href="%%view_email_url%%" target="_blank" style="color: #000000">click here</a> to view. </td>
+    </tr>
+    <!-- HOSTED_EMAIL_LINK_END -->
+    
+    <tr>
+      <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://www.affirmfilms.com/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/the_star_6oct17_eblast/affirm-header.jpg" alt="Affirm Films A Sony Company" title="Affirm Films A Sony Company" width="600" height="73" style="display:block" border="0" /></a></td>
+            </tr>
+          </tbody>
+        </table></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://thestarmovie.com/?utm_source=thestar_eblast&utm_campaign=eblast100517&utm_medium=email/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/the_star_6oct17_eblast/header.jpg" width="600" height="642" alt="The Star" title="The Star" style="display:block" border="0"/></a></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" style="font-family: Arial, sans-serif; font-weight: bold;font-size: 26px !important; padding:0 35px; line-height: 1.1;"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://thestarmovie.com/?utm_source=thestar_eblast&utm_campaign=eblast100517&utm_medium=email/?hs308=email" target="_blank" style="color:#635084; text-decoration:none; font-weight: bold; font-size: 26px; font-family:Verdana,sans-serif;; line-height: 1.1;">Witness the Story of Christmas</a></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" style="padding:0 20px; font-family: Times, serif;"><p style="font-size: 17px; margin:0 0 25px 0; line-height: 1.4; font-family:Verdana,sans-serif;; color:#484848;">See the birth of Jesus through a whole new set of eyes. In Sony Pictures Animation and AFFIRM Film&#39;s <strong>THE STAR</strong>, Bo the donkey and his animal friends become unlikely heroes in the first Christmas. Featuring an uplifting soundtrack, including new music from Mariah Carey, <strong>THE STAR</strong> will give families a fresh and fun look at the Christmas story.</p></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=https://youtu.be/9NjvYZtwk00/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/the_star_6oct17_eblast/image1.jpg" width="600" height="317" alt="Watch The Trailer" title="Watch The Trailer" style="display:block" border="0"/></a></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" style="padding:0 20px; font-family: Times, serif;"><p style="font-size: 17px; margin:0 0 25px 0; line-height: 1.4; font-family:Verdana,sans-serif;; color:#484848;">&#8220;I love the story,&#8221; says Kelly Clarkson, who plays Leah the horse. &#8220;And I love that they take such a classic story of the Baby Jesus from the animals&#39; perspective. I thought that was pretty brilliant.&#8221;</p></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" style="padding:0 20px; font-family: Times, serif;"><p style="font-size: 17px; margin:0 0 25px 0; line-height: 1.4; font-family:Verdana,sans-serif; color:#484848;">From the studio that brought you <strong>Miracles From Heaven</strong> and <strong>Cloudy With a Chance of Meatballs</strong>, comes <strong>THE STAR</strong> in theaters November 17, 2017.</p></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td align="left" valign="top" width="102">&nbsp;</td>
+              <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://thestarmovie.com/?utm_source=thestar_eblast&utm_campaign=eblast100517&utm_medium=email/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/the_star_6oct17_eblast/btn_learn.jpg" width="396" height="67" alt="Learn More" title="Learn More" style="display:block" border="0"/></a></td>
+              <td align="left" valign="top" width="102">&nbsp;</td>
+            </tr>
+          </tbody>
+        </table></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top" style="background-color:#000000;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top" style="background-color:#000000;"><table border="0" cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td align="left" valign="top" width="234">&nbsp;</td>
+              <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=https://www.facebook.com/TheStarMovie/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/the_star_6oct17_eblast/social_facebook.jpg" width="42" height="44" alt="Facebook" title="Facebook" style="display:block" border="0"/></a></td>
+              <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=https://twitter.com/thestarmovie/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/the_star_6oct17_eblast/social_twitter.jpg" width="45" height="44" alt="Twitter" title="Twitter" style="display:block" border="0"/></a></td>
+              <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=https://www.instagram.com/thestarmovie/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/the_star_6oct17_eblast/social_instagram.jpg" width="45" height="44" alt="Instagram" title="Instagram" style="display:block" border="0"/></a></td>
+              <td align="left" valign="top" width="234">&nbsp;</td>
+            </tr>
+          </tbody>
+        </table></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://thestarmovie.com/?utm_source=thestar_eblast&utm_campaign=eblast100517&utm_medium=email/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/the_star_6oct17_eblast/footer.jpg" width="600" height="167" alt="In Theaters November 2017" style="display:block" border="0"/></a></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top" style="background-color:#000000;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="color:#000000; padding: 10px 15px 15px 15px;font-size: 11px; font-family: Arial,Helvetica,Arial,sans-serif,sans-serif; text-align:left;"><p style="text-align:center;">Movie Artwork, Layout and Design &copy; 2017 Sony Pictures Entertainment Inc.  All Rights Reserved.</p>
+        <p>You are receiving this email because you subscribed to receive email updates about faith-based titles from Affirm Films. You are subscribed with the address: %%=v(@email)=%%.</p>
+        <p><b>UNSUBSCRIBE</b><br>
+          To be removed from our mailing list, <a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=https://secure.sonypictures.com/registration/preference/mysubscriptions.php?access=%%=v(@access_id)=%%&campaignid=%%jobid%%?hs308=email" style="color:#66553c;" target="_blank">click here</a>.</p>
+        <p><b>UPDATE YOUR PREFERENCES</b><br>
+          To manage your subscriptions and email preferences, <a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=https://secure.sonypictures.com/registration/preference/?access=%%=v(@access_id)=%%&campaignid=%%jobid%%?hs308=email" style="color:#66553c;" target="_blank">click here</a>.</p>
+        <p>To learn how we handle your personal information, read our <a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://www.sonypictures.com/corp/privacy.html?hs308=email" target="_blank" style="color:#66553c;">Privacy Policy</a>.</p>
+        <p>This email may contain links to, or advertisements concerning, other third party sites. Sony Pictures is not responsible for the privacy practices or content of such other sites and encourages you to read their own privacy statements and terms of use when you visit such sites.</p>
+        <p>This email was sent to %%=v(@email)=%% by Affirm Films, a subsidiary of Sony Pictures Entertainment Inc.<br>
+          10202 W. Washington Blvd., Culver City, CA 90232</p>
+        <p>&copy; 2017 Sony Pictures Entertainment Inc. All rights reserved.</p></td>
+    </tr>
+  </tbody>
+</table>
+<custom name="opencounter" type="tracking">
+<img src= 'https://beacon.krxd.net/1x1_ad_impression.gif?confid=rp2gxc9nf&advertiserid=%%memberid%%&campaignid=%%emailname_%%&kxbrand=' width=0 height=0 style='display:none' /> <img src= 'https://beacon.krxd.net/1x1_usermatch.gif?partner=LFOmnOpC_exacttarget_sha256&partner_uid=%%=SHA256(emailaddr)=%%' width=0 height=0 style='display:none' /> <img src= 'https://beacon.krxd.net/1x1_usermatch.gif?partner=LFOmnOpC_exacttarget_subkey&partner_uid=%%subscriberid%%' width=0 height=0 style='display:none' /> <img src= 'https://beacon.krxd.net/1x1_usermatch.gif?partner=LFOmnOpC_exacttarget_subid&partner_uid=%%_subscriberkey%%' width=0 height=0 style='display:none' />
+</body>
+</html>
