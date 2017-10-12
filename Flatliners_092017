@@ -1,0 +1,163 @@
+%%[
+Var @Email, @Access_ID
+Set @Email = Email
+Set @Access_ID = Access_ID
+]%%
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Flatliners</title>
+</head>
+
+<body topmargin="0" leftmargin="0" bgcolor="#FFFFFF">
+<table width="600" border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+    <!-- HOSTED_EMAIL_LINK_BEGIN -->
+    <tr>
+      <td width="600" colspan="2" bgcolor="#FFFFFF" style="color: #000000; font-size:10px; font-family:Arial,Helvetica,sans-serif; padding:5px 0px; text-align:center;"><strong>Flatliners&#58; At Cinemas Now</strong><br>
+        If you cannot see this message, <a href="%%view_email_url%%" target="_blank" style="color: #000000">click here</a> to view. </td>
+    </tr>
+    <!-- HOSTED_EMAIL_LINK_END -->
+    <tr>
+      <td align="left" valign="top"><table width="600" border="0" cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://www.sonypictures.co.uk/index?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/flatliners_uk/header_01.jpg" width="59" height="69" alt="Sony Pictures" title="Sony Pictures " style="display:block" border="0"/></a></td>
+              <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/flatliners_uk/header_02.jpg" width="314" height="69" alt="" style="display:block" border="0"/></td>
+              <td align="left" valign="top"><table width="227" border="0" cellspacing="0" cellpadding="0">
+                  <tbody>
+                    <tr>
+                      <td width="237"><img src="http://flash.sonypictures.com/ist/flatliners_uk/header_03.jpg" width="227" height="21" alt="" style="display:block" border="0"/></td>
+                    </tr>
+                    <tr>
+                      <td><table width="227" border="0" cellspacing="0" cellpadding="0">
+                          <tbody>
+                            <tr>
+                              <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://www.sonypictures.co.uk/registration?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/flatliners_uk/header_04.jpg" width="39" height="27" alt="Get in Touch" title="Get in Touch" style="display:block" border="0"/></a></td>
+                              <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://www.sonypictures.co.uk/registration?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/flatliners_uk/header_05.jpg" width="27" height="27" alt="Get in Touch" title="Get in Touch" style="display:block" border="0"/></a></td>
+                              <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/flatliners_uk/header_06.jpg" width="27" height="27" alt="" style="display:block" border="0"/></td>
+                              <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=https://www.facebook.com/SonyPicturesUK?ref=bookmarks?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/flatliners_uk/header_07.jpg" width="27" height="27" alt="Facebook" title="Facebook" style="display:block" border="0"/></a></td>
+                              <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/flatliners_uk/header_08.jpg" width="5" height="27" alt="" style="display:block" border="0"/></td>
+                              <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=https://twitter.com/SonyPicturesUK?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/flatliners_uk/header_09.jpg" width="27" height="27" alt="Twitter" title="Twitter" style="display:block" border="0"/></a></td>
+                              <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/flatliners_uk/header_10.jpg" width="5" height="27" alt="" style="display:block" border="0"/></td>
+                              <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=https://www.youtube.com/user/SonyPicsUK?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/flatliners_uk/header_11.jpg" width="27" height="27" alt="YouTube" title="YouTube" style="display:block" border="0"/></a></td>
+                              <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/flatliners_uk/header_12.jpg" width="5" height="27" alt="" style="display:block" border="0"/></td>
+                              <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=https://instagram.com/sonypicturesuk/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/flatliners_uk/header_13.jpg" width="27" height="27" alt="Instagram" title="Instagram" style="display:block" border="0"/></a></td>
+                              <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/flatliners_uk/header_14.jpg" width="11" height="27" alt="" style="display:block" border="0"/></td>
+                            </tr>
+                          </tbody>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td><img src="http://flash.sonypictures.com/ist/flatliners_uk/header_15.jpg" width="227" height="21" alt="" style="display:block" border="0"/></td>
+                    </tr>
+                  </tbody>
+                </table></td>
+            </tr>
+          </tbody>
+        </table></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://www.flatlinerstickets.co.uk/videos/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/flatliners_uk/index_01.jpg" width="600" height="56" alt="Dare To Cross The Line" title="Dare To Cross The Line" style="display:block" border="0"/></a></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://www.flatlinerstickets.co.uk/videos/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/flatliners_uk/index_02.jpg" width="600" height="257" alt="" style="display:block" border="0"/></a></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://www.flatlinerstickets.co.uk/videos/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/flatliners_uk/index_03.jpg" width="600" height="257" alt="" style="display:block" border="0"/></a></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://www.flatlinerstickets.co.uk/videos/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/flatliners_uk/index_04.jpg" width="600" height="102" alt="Flatliners" title="Flatliners" style="display:block" border="0"/></a></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><table width="600" border="0" cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://www.flatlinerstickets.co.uk/videos/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/flatliners_uk/index_05.jpg" width="171" height="35" alt="" style="display:block" border="0"/></a></td>
+              <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://www.flatlinerstickets.co.uk/videos/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/flatliners_uk/index_06.jpg" width="257" height="35" alt="At Cinemas Now" title="At Cinemas Now" style="display:block" border="0"/></a></td>
+              <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://www.flatlinerstickets.co.uk/videos/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/flatliners_uk/index_07.jpg" width="172" height="35" alt="" style="display:block" border="0"/></a></td>
+            </tr>
+          </tbody>
+        </table></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><table width="600" border="0" cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://www.flatlinerstickets.co.uk/videos/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/flatliners_uk/index_08.jpg" width="33" height="250" alt="" style="display:block" border="0"/></a></td>
+              <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://www.flatlinerstickets.co.uk/videos/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/flatliners_uk/index_09.jpg" width="534" height="250" alt="" style="display:block" border="0"/></a></td>
+              <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://www.flatlinerstickets.co.uk/videos/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/flatliners_uk/index_10.jpg" width="33" height="250" alt="" style="display:block" border="0"/></a></td>
+            </tr>
+          </tbody>
+        </table></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://www.flatlinerstickets.co.uk/videos/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/flatliners_uk/index_11.jpg" width="600" height="23" alt="" style="display:block" border="0"/></a></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://www.flatlinerstickets.co.uk/videos/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/flatliners_uk/index_12.jpg" width="171" height="36" alt="" style="display:block" border="0"/></a></td>
+              <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://www.flatlinerstickets.co.uk/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/flatliners_uk/index_13.jpg" width="258" height="36" alt="Book Tickets" title="Book Tickets" style="display:block" border="0"/></a></td>
+              <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://www.flatlinerstickets.co.uk/videos/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/flatliners_uk/index_14.jpg" width="171" height="36" alt="" style="display:block" border="0"/></a></td>
+            </tr>
+          </tbody>
+        </table></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://www.flatlinerstickets.co.uk/videos/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/flatliners_uk/index_15.jpg" width="600" height="23" alt="" style="display:block" border="0"/></a></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://www.flatlinerstickets.co.uk/videos/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/flatliners_uk/index_16.jpg" width="200" height="22" alt="" style="display:block" border="0"/></a></td>
+              <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=https://twitter.com/SonyPicturesUK?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/flatliners_uk/index_17.jpg" width="200" height="22" alt="&#35;FlatlinersMovie" title="&#35;FlatlinersMovie" style="display:block" border="0"/></a></td>
+              <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://www.flatlinerstickets.co.uk/videos/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/flatliners_uk/index_18.jpg" width="200" height="22" alt="" style="display:block" border="0"/></a></td>
+            </tr>
+          </tbody>
+        </table></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/flatliners_uk/index_19.jpg" width="600" height="45" alt="" style="display:block" border="0"/></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/flatliners_uk/index_20.jpg" width="230" height="28" alt="" style="display:block" border="0"/></td>
+              <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=https://www.facebook.com/FlatlinersOfficialMovie/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/flatliners_uk/index_21.jpg" width="27" height="28" alt="Facebook" title="Facebook" style="display:block" border="0"/></a></td>
+              <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/flatliners_uk/index_22.jpg" width="27" height="28" alt="" style="display:block" border="0"/></td>
+              <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=https://twitter.com/SonyPicturesUK?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/flatliners_uk/index_23.jpg" width="35" height="28" alt="Twitter" title="Twitter" style="display:block" border="0"/></a></td>
+              <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/flatliners_uk/index_24.jpg" width="21" height="28" alt="" style="display:block" border="0"/></td>
+              <td align="left" valign="top"><a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=https://www.instagram.com/sonypicturesuk/?hs308=email" target="_blank"><img src="http://flash.sonypictures.com/ist/flatliners_uk/index_25.jpg" width="28" height="28" alt="Instagram" title="Instagram" style="display:block" border="0"/></a></td>
+              <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/flatliners_uk/index_26.jpg" width="232" height="28" alt="" style="display:block" border="0"/></td>
+            </tr>
+          </tbody>
+        </table></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><img src="http://flash.sonypictures.com/ist/flatliners_uk/index_27.jpg" width="600" height="66" alt="" style="display:block" border="0"/></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top" style="color:#88908d;  padding: 10px 15px 15px 15px;font-size: 11px; font-family: Arial,Helvetica,sans-serif; text-align:left; background:#0B0E15;"><p>You are receiving this e-mail because you subscribed to receive Sony Pictures UK Updates. You are subscribed with the address: %%=v(@email)=%%.</p>
+        <p> <b>UNSUBSCRIBE</b><br />
+          To be removed from our mailing list, <a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=https://secure.sonypictures.com/intl/uk/registration/unsubscribe.php?
+access=%%=v(@access_id)=%%&subid=1&campaignid=%%jobid%%?hs308=email" target="_blank" style="color:#88908d;">click here</a>.</p>
+        <p>To learn how we handle your personal information, read our <a href="https://apiservices.krxd.net/click_tracker/track?kxconfid=rp2gxc9nf&kxadvertiserid=%%memberid%%&kxcampaignid=%%emailname_%%&kxbrand=&clk=http://www.sonypictures.co.uk/privacy-policy?hs308=email" target="_blank" style="color:#88908d;">Privacy Policy</a>.</p>
+        <p>This email may contain links to, or advertisements concerning, other third party sites. Sony Pictures UK is not responsible for the privacy practices or content of such other sites and encourages you to read their own privacy statements and terms of use when you visit such sites.</p>
+        <p>This email was sent to %%=v(@email)=%% by Sony Pictures Releasing (UK)</p>
+        <p>Sony Pictures Europe House<br />
+          25 Golden Square<br />
+          London W1R 9LU<br />
+        </p>
+        <p>&copy; 2017 Sony Pictures Releasing (UK). All rights reserved.</p></td>
+    </tr>
+  </tbody>
+</table>
+<custom name="opencounter" type="tracking">
+<img src= 'https://beacon.krxd.net/1x1_ad_impression.gif?confid=rp2gxc9nf&advertiserid=%%memberid%%&campaignid=%%emailname_%%&kxbrand=' width=0 height=0 style='display:none' /> <img src= 'https://beacon.krxd.net/1x1_usermatch.gif?partner=LFOmnOpC_exacttarget_sha256&partner_uid=%%=SHA256(emailaddr)=%%' width=0 height=0 style='display:none' /> <img src= 'https://beacon.krxd.net/1x1_usermatch.gif?partner=LFOmnOpC_exacttarget_subkey&partner_uid=%%subscriberid%%' width=0 height=0 style='display:none' /> <img src= 'https://beacon.krxd.net/1x1_usermatch.gif?partner=LFOmnOpC_exacttarget_subid&partner_uid=%%_subscriberkey%%' width=0 height=0 style='display:none' />
+</body>
+</html>
